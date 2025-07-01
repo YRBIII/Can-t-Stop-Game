@@ -1,0 +1,3 @@
+C:/Users/yrbri/CLionProjects/p10/cmake-build-debug/CMakeFiles/p10.dir
+C:/Users/yrbri/CLionProjects/p10/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yrbri/CLionProjects/p10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
